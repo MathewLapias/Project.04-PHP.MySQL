@@ -43,7 +43,7 @@
           <h1 class="hero-name">Mathew <span>Lapias</span></h1>
           <p>
             Saya merupakan mahasiswa aktif Jurusan Teknik Informatika Unsrat Angkatan 2022. 
-            Ini merupakan MidProject dengan menambahkan CSS, HTML dan JavaScript dalam website ini.
+            Ini merupakan Project 04 dengan menambahkan HTML, CSS, JavaScript, PHP dan MySQL dalam website ini.
           </p>
         </div>
 
